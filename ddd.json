@@ -1,0 +1,728 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "History",
+      "tests": [
+        {
+          "id": 0,
+          "name": "Test 1",
+          "questions": [
+            {
+              "id": 0,
+              "question": "Who led the first successful revolution against Spanish colonial rule in the Philippines?",
+              "options": [
+                "Emilio Aguinaldo",
+                "Andres Bonifacio",
+                "Jose Rizal",
+                "Ferdinand Marcos"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 1,
+              "question": "Which Philippine president was known for his 'Philippines First' policy and establishment of the Filipino First Policy?",
+              "options": [
+                "Manuel Roxas",
+                "Carlos P. Garcia",
+                "Ramon Magsaysay",
+                "Diosdado Macapagal"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 2,
+              "question": "What event sparked the Philippine-American War in 1899?",
+              "options": [
+                "The assassination of Governor-General Fernando Primo de Rivera",
+                "The execution of national hero Jose Rizal",
+                "The signing of the Treaty of Paris",
+                "The refusal of the United States to recognize Philippine independence"
+              ],
+              "correctAnswers": [
+                3
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 3,
+              "question": "Who served as the first female president of the Philippines?",
+              "options": [
+                "Gloria Macapagal-Arroyo",
+                "Corazon Aquino",
+                "Imelda Marcos",
+                "Miriam Defensor-Santiago"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 4,
+              "question": "Who wrote the novel Noli Me Tangere, which exposed the injustices and corruption of the Spanish colonial government in the Philippines?",
+              "options": [
+                "Jose Garcia Villa",
+                "Jose Rizal",
+                "Nick Joaquin",
+                "Lualhati Bautista"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 5,
+              "question": "What was the significance of the Battle of Mactan in 1521?",
+              "options": [
+                "It marked the beginning of Spanish colonial rule in the Philippines.",
+                "It was the first recorded victory of the Filipinos against foreign invaders.",
+                "It led to the martyrdom of national hero Jose Rizal.",
+                "It resulted in the establishment of the Philippine Commonwealth."
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 6,
+              "question": "What was the name of the group that led the Philippine Revolution against Spanish colonial rule?",
+              "options": [
+                "Katipunan",
+                "Magdalo",
+                "Hukbalahap",
+                "Pulahan"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 7,
+              "question": "Who founded the Philippine Independent Church or the Aglipayan Church in 1902?",
+              "options": [
+                "Felix Manalo",
+                "Gregorio Aglipay",
+                "Isagani Cruz",
+                "Jaime Sin"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 8,
+              "question": "What was the name of the political party established by President Manuel Quezon in 1935?",
+              "options": [
+                "Nacionalista Party",
+                "Liberal Party",
+                "KALIBAPI",
+                "Lakas ng Bayan"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 9,
+              "question": "Who was the leader of the Philippine Revolution during the Battle of San Juan del Monte in 1896?",
+              "options": [
+                "Emilio Aguinaldo",
+                "Andres Bonifacio",
+                "Antonio Luna",
+                "Gregorio del Pilar"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 10,
+              "question": "Who is considered the 'Father of the Philippine Revolution'?",
+              "options": [
+                "Andres Bonifacio",
+                "Emilio Aguinaldo",
+                "Jose Rizal",
+                "Marcelo H. del Pilar"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 11,
+              "question": "What was the name of the treaty that ended the Philippine-American War in 1902?",
+              "options": [
+                "Treaty of Versailles",
+                "Treaty of Paris",
+                "Treaty of Tordesillas",
+                "Treaty of Portsmouth"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 12,
+              "question": "Who was the first Filipino elected as President of the Philippine Commonwealth in 1935?",
+              "options": [
+                "Manuel Roxas",
+                "Emilio Aguinaldo",
+                "Sergio Osmeña",
+                "Manuel Quezon"
+              ],
+              "correctAnswers": [
+                3
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 13,
+              "question": "What was the name of the secret society founded by Andres Bonifacio in 1892?",
+              "options": [
+                "Katipunan",
+                "La Liga Filipina",
+                "Liga Filipina",
+                "Kapisanan ng mga Anak ng Bayan"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 14,
+              "question": "Who established the First Philippine Republic in 1899?",
+              "options": [
+                "Emilio Aguinaldo",
+                "Andres Bonifacio",
+                "Apolinario Mabini",
+                "Antonio Luna"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 15,
+              "question": "Who was the leader of the Philippine Constabulary during the Philippine-American War?",
+              "options": [
+                "Emilio Aguinaldo",
+                "Gregorio del Pilar",
+                "Arthur MacArthur Jr.",
+                "Rafael Crame"
+              ],
+              "correctAnswers": [
+                2
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 16,
+              "question": "What was the name of the American civil governor who implemented the 'Philippine Bill of 1902'?",
+              "options": [
+                "William Howard Taft",
+                "Theodore Roosevelt",
+                "Woodrow Wilson",
+                "Harry S. Truman"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 17,
+              "question": "Who was the first Filipino to win the Pulitzer Prize?",
+              "options": [
+                "Nick Joaquin",
+                "Jose Garcia Villa",
+                "Ninotchka Rosca",
+                "Carlos Bulosan"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 18,
+              "question": "What was the name of the largest battle fought during the Philippine-American War in 1900?",
+              "options": [
+                "Battle of Tirad Pass",
+                "Battle of Mactan",
+                "Battle of Manila Bay",
+                "Battle of Balangiga"
+              ],
+              "correctAnswers": [
+                3
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 19,
+              "question": "What was the name of the leader of the Moro rebellion against American colonial rule in the early 1900s?",
+              "options": [
+                "Datu Lapu-Lapu",
+                "Sultan Kudarat",
+                "Shariff Kabunsuan",
+                "Datu Muhammad Kiram"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 20,
+              "question": "What was the name of the event that marked the peaceful overthrow of President Ferdinand Marcos in 1986?",
+              "options": [
+                "EDSA Revolution",
+                "People Power Revolution",
+                "Yellow Revolution",
+                "Freedom Revolution"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 21,
+              "question": "Who was the first Filipino to win an Olympic medal?",
+              "options": [
+                "Teófilo Yldefonso",
+                "Hidilyn Diaz",
+                "Paeng Nepomuceno",
+                "Efren Reyes"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 22,
+              "question": "What was the name of the group that launched a series of bombings in Metro Manila in 2000?",
+              "options": [
+                "Abu Sayyaf Group",
+                "Jemaah Islamiyah",
+                "Moro Islamic Liberation Front",
+                "Rajah Sulaiman Movement"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 21,
+              "question": "Who was the first Filipino to be canonized by the Catholic Church?",
+              "options": [
+                "San Lorenzo Ruiz",
+                "San Pedro Calungsod",
+                "San Jose Maria Escriva",
+                "San Pedro Bautista"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 22,
+              "question": "What was the name of the government agency established by President Marcos in 1972 to suppress dissent and maintain order during Martial Law?",
+              "options": [
+                "Presidential Security Command",
+                "Philippine Constabulary",
+                "Bureau of National Intelligence",
+                "Philippine Constabulary-Integrated National Police"
+              ],
+              "correctAnswers": [
+                2
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 23,
+              "question": "What was the name of the Filipino who became the first Asian to win a Nobel Prize for Literature?",
+              "options": [
+                "Jose Garcia Villa",
+                "Nick Joaquin",
+                "F. Sionil Jose",
+                "Miguel Syjuco"
+              ],
+              "correctAnswers": [
+                2
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 24,
+              "question": "What was the name of the Filipino-American who served as the first woman judge of the International Criminal Court?",
+              "options": [
+                "Miriam Defensor-Santiago",
+                "Lorna Kapunan",
+                "Raul Pangalangan",
+                "Leila de Lima"
+              ],
+              "correctAnswers": [
+                2
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 25,
+              "question": "Who was the first president of the Philippine Republic after the country gained independence from the United States in 1946?",
+              "options": [
+                "Sergio Osmeña",
+                "Manuel Roxas",
+                "Elpidio Quirino",
+                "Carlos P. Garcia"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 26,
+              "question": "What was the name of the famous battle cry of the Katipunan during the Philippine Revolution?",
+              "options": [
+                "Mabuhay ang Kalayaan!",
+                "Viva la Revolución!",
+                "Mabuhay ang Katipunan!",
+                "Para sa Bayan!"
+              ],
+              "correctAnswers": [
+                2
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 27,
+              "question": "What was the name of the Filipino who became the first Asian-American to serve in the United States Congress?",
+              "options": [
+                "Robert Cortez Scott",
+                "Dalip Singh Saund",
+                "Norman Mineta",
+                "Eni Faleomavaega"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Economic",
+      "tests": [
+        {
+          "id": 0,
+          "name": "Test 1",
+          "questions": [
+            {
+              "id": 0,
+              "question": "What is the primary currency used in the Philippines?",
+              "options": [
+                "US Dollar",
+                "Philippine Peso",
+                "Euro",
+                "Japanese Yen"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 1,
+              "question": "Which industry is the largest contributor to the Philippine economy?",
+              "options": [
+                "Agriculture",
+                "Manufacturing",
+                "Services",
+                "Mining"
+              ],
+              "correctAnswers": [
+                2
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 2,
+              "question": "What is the unemployment rate in the Philippines as of 2021?",
+              "options": [
+                "2.7%",
+                "5.5%",
+                "7.3%",
+                "9.1%"
+              ],
+              "correctAnswers": [
+                3
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 3,
+              "question": "What is the main export product of the Philippines?",
+              "options": [
+                "Electronics",
+                "Coconut oil",
+                "Textiles",
+                "Petroleum"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 4,
+              "question": "What is the current poverty rate in the Philippines as of 2021?",
+              "options": [
+                "10%",
+                "18%",
+                "25%",
+                "33%"
+              ],
+              "correctAnswers": [
+                3
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 5,
+              "question": "Which Philippine president implemented the 'Build, Build, Build' infrastructure program?",
+              "options": [
+                "Gloria Macapagal-Arroyo",
+                "Benigno Aquino III",
+                "Rodrigo Duterte",
+                "Joseph Estrada"
+              ],
+              "correctAnswers": [
+                2
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 6,
+              "question": "What is the name of the Philippine stock exchange?",
+              "options": [
+                "Philippine Securities Exchange",
+                "Manila Stock Exchange",
+                "Philippine Stock Market",
+                "Philippine Stock Exchange"
+              ],
+              "correctAnswers": [
+                3
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 7,
+              "question": "What is the main source of income of Overseas Filipino Workers (OFWs)?",
+              "options": [
+                "Manufacturing",
+                "Services",
+                "Agriculture",
+                "Mining"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 8,
+              "question": "What is the name of the law that grants tax incentives to businesses in special economic zones in the Philippines?",
+              "options": [
+                "Special Economic Zone Act",
+                "Economic Stimulus Act",
+                "Tax Incentives and Special Economic Zone Act",
+                "Foreign Investment Act"
+              ],
+              "correctAnswers": [
+                2
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 9,
+              "question": "Which Philippine president implemented the Tax Reform for Acceleration and Inclusion (TRAIN) law?",
+              "options": [
+                "Benigno Aquino III",
+                "Rodrigo Duterte",
+                "Gloria Macapagal-Arroyo",
+                "Joseph Estrada"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 10,
+              "question": "What is the largest port in the Philippines?",
+              "options": [
+                "Manila North Harbor",
+                "Batangas Port",
+                "Subic Bay Freeport Zone",
+                "Manila International Container Terminal"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 11,
+              "question": "Which of the following industries in the Philippines is known for its Business Process Outsourcing (BPO) services?",
+              "options": [
+                "Manufacturing",
+                "Agriculture",
+                "Services",
+                "Mining"
+              ],
+              "correctAnswers": [
+                2
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 12,
+              "question": "What is the name of the agency responsible for implementing the social security system in the Philippines?",
+              "options": [
+                "Social Security System (SSS)",
+                "Philippine Health Insurance Corporation (PhilHealth)",
+                "Government Service Insurance System (GSIS)",
+                "Department of Social Welfare and Development (DSWD)"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 13,
+              "question": "What is the main source of government revenue in the Philippines?",
+              "options": [
+                "Income tax",
+                "Corporate tax",
+                "Value-added tax (VAT)",
+                "Property tax"
+              ],
+              "correctAnswers": [
+                2
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 14,
+              "question": "Which of the following is a major contributor to environmental degradation in the Philippines?",
+              "options": [
+                "Deforestation",
+                "Efficient waste management",
+                "Increased use of renewable energy",
+                "Strict environmental regulations"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 15,
+              "question": "What is the name of the Philippine national agency responsible for promoting and regulating foreign investments in the country?",
+              "options": [
+                "Philippine Economic Zone Authority (PEZA)",
+                "Board of Investments (BOI)",
+                "Department of Trade and Industry (DTI)",
+                "Bureau of Internal Revenue (BIR)"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 16,
+              "question": "What is the name of the law that governs labor practices in the Philippines?",
+              "options": [
+                "Labor Code of the Philippines",
+                "Employee Relations Act",
+                "Fair Labor Standards Act",
+                "Employment Standards Act"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 17,
+              "question": "What is the name of the Philippine government agency responsible for regulating the banking industry?",
+              "options": [
+                "Bangko Sentral ng Pilipinas (BSP)",
+                "Securities and Exchange Commission (SEC)",
+                "Department of Finance (DOF)",
+                "Philippine Deposit Insurance Corporation (PDIC)"
+              ],
+              "correctAnswers": [
+                0
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 18,
+              "question": "What is the name of the Philippine government agency responsible for regulating the telecommunications industry?",
+              "options": [
+                "Department of Information and Communications Technology (DICT)",
+                "National Telecommunications Commission (NTC)",
+                "Philippine Long Distance Telephone Company (PLDT)",
+                "Smart Communications"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            },
+            {
+              "id": 19,
+              "question": "What is the name of the Philippine government agency responsible for regulating the energy sector?",
+              "options": [
+                "Department of Energy (DOE)",
+                "Energy Regulatory Commission (ERC)",
+                "National Power Corporation (NPC)",
+                "Philippine National Oil Company (PNOC)"
+              ],
+              "correctAnswers": [
+                1
+              ],
+              "explanations": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
